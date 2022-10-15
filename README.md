@@ -1,5 +1,5 @@
 # HYBMAP, a global hybrid land-cover maps from 2000 to 2020 with a resolution of approximately 1 km
-Includes the code to produce HYBMAP and images from the manuscript
+Include the code to produce HYBMAP and images from the manuscript
 * A hybrid global annual 1 km IGBP land cover maps for the period 2000 - 2020 (HYBMAP). 
 * HYBMAP integrated four widely-used land cover products (MODIS-IGBP, ESA-CCI, Globeland30, and GLC_FCS30) based on their accuracy against a collection of 114,620 reference samples.
 * The annual records of the HYBMAP can be accessed freely at the Zenodo repository (https://doi.org/10.5281/zenodo.7095045). 
