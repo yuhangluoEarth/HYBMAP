@@ -25,4 +25,5 @@ A hybrid global annual 1 km IGBP land cover maps for the period 2000 - 2020
 ## Contact Information
 If you have any query for this work, please directly contact me.
 Author: Yuhang Luo
+
 E-mail: yuhangluo@pku.edu.cn
