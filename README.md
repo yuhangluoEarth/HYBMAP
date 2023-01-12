@@ -5,7 +5,7 @@ Include the code to produce HYBMAP and images from the manuscript
 * The annual records of the HYBMAP can be accessed freely at the Zenodo repository (https://doi.org/10.5281/zenodo.7095045). 
 * In the Zenodo repository, HYBMAP provides a global land cover product (“** _LC.tif”) and corresponding cumulative affinity scores ( “** _Aff.tif”) from 2000 to 2020 at a resolution of 30” × 30” (1/120°, ~1 km2). The Legend file provides the corresponding Code and Description for IGBP classification.
 ## Example: HYBMAP-2010
-![image](https://github.com/yuhangluoEarth/Photo/blob/main/HYBMAP2.tif)
+![image](https://github.com/yuhangluoEarth/Photo/HYBMAP2.tif)
 
 ## Reference
 A hybrid global annual 1 km IGBP land cover maps for the period 2000 - 2020
