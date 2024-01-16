@@ -12,7 +12,7 @@ A hybrid global annual 1 km IGBP land cover maps for the period 2000 - 2020
 
 ## Dataset Download
 * Link :
-  [HYBMAP-IGBP](https://doi.org/10.5281/zenodo.7306349)
+  [HYBMAP-IGBP](https://doi.org/10.5281/zenodo.10488191)
 
   
 ## Environments and Dependencies
